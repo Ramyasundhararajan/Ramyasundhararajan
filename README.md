@@ -2,15 +2,35 @@
 
 🚀 AI + Automation + Predictive Analysis = Smarter Solutions, Zero Guesswork  
 
-🔗 Portfolio: https://ramya125rs.netlify.app  
-💼 LinkedIn:  https://www.linkedin.com/in/ramya-s12r/
-📧 Email: ramyamano2003@gmail.com
+---
+
+## 💡 About Me
+
+🎓 M.Sc. Data Science @ Bishop Heber College (CGPA: 8.5+)
+💻 Hands-on experience in Machine Learning, Deep Learning, NLP, and real-time analytics projects
+🤖 Built multiple AI agents and automation systems including chatbots, CRM automation, recommendation engines, and workflow bots
+📊 Developed and deployed end-to-end ML solutions for anomaly detection, sentiment analysis, trend prediction, and customer analytics
+🌐 Experienced in building ML-powered web applications using Flask with interactive data visualizations
+🧠 Strong foundation in Statistics, Machine Learning algorithms, Data Analysis, and Predictive Modeling
 
 ---
 
-## 👩‍💻 Professional Summary
+## 🛠️ Technical Skills
 
-AI-driven Data Science graduate and aspiring Full Stack Developer with hands-on experience in intelligent automation, predictive analytics, and AI agents. Proven in building end-to-end solutions including chatbots, CRM automation, recommendation systems, and real-time analytics platforms. Strong foundation in machine learning, NLP, deep learning, and web development, focused on delivering scalable, business-ready solutions.
+**Programming & Databases**  
+Python, SQL, MySQL, MongoDB  
+
+**Data & Analytics Tools**  
+Tableau, Power BI, Hadoop  
+
+**Libraries & Frameworks**  
+Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
+
+**Core Concepts**  
+Machine Learning, Deep Learning, NLP, Predictive Analytics, Data Analysis, AI Agents, Automation, API Integration, Model Deployment  
+
+**Cloud & Platforms**  
+Microsoft Azure  
 
 ---
 
@@ -106,25 +126,6 @@ AI-driven Data Science graduate and aspiring Full Stack Developer with hands-on 
 
 ---
 
-## 🛠️ Technical Skills
-
-**Programming & Databases**  
-Python, SQL, MySQL, MongoDB  
-
-**Data & Analytics Tools**  
-Tableau, Power BI, Hadoop  
-
-**Libraries & Frameworks**  
-Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
-
-**Core Concepts**  
-Machine Learning, Deep Learning, NLP, Predictive Analytics, Data Analysis, AI Agents, Automation, API Integration, Model Deployment  
-
-**Cloud & Platforms**  
-Microsoft Azure  
-
----
-
 ## 🎓 Education
 
 **M.Sc. Data Science**  
@@ -152,6 +153,12 @@ CGPA: 86%
 - Data Visualization with Tableau – Great Learning  
 - Data Visualization with Power BI – Great Learning  
 - 30 Days Masterclass in AI – NoviTech R&D  
+
+---
+###📫 Connect With Me
+📧 Email: ramyamano2003@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/ramya-s12r/
+💻 GitHub: https://github.com/Ramyasundhararajan
 
 ---
 
