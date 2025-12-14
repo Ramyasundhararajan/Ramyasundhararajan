@@ -155,9 +155,10 @@ CGPA: 86%
 
 ---
 ### 📫 Connect With Me
-- 📧 **Email**: ramyamano2003@gmail.com
-- 💼 **LinkedIn**: https://www.linkedin.com/in/ramya-s12r/
-- 💻 **GitHub**: https://github.com/Ramyasundhararajan
+- 📧 **Email**: ramyamano2003@gmail.com  
+- 💼 **LinkedIn**: https://www.linkedin.com/in/ramya-s12r/  
+- 💻 **GitHub**: https://github.com/Ramyasundhararajan  
+- 🌐 **Portfolio**: https://ramya125rs.netlify.app  
 
 ---
 
