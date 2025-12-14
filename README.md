@@ -21,37 +21,15 @@
 ---
 ## 🧠 Technical Skills
 
-**Programming & Databases**
-- Python  
-- SQL  
-- MySQL  
-- MongoDB  
+## 🧠 Technical Skills
 
-**Data & Analytics Tools**
-- Tableau  
-- Power BI  
-- Hadoop  
-
-**Libraries & Frameworks**
-- Pandas  
-- NumPy  
-- Scikit-learn  
-- TensorFlow  
-- PyTorch  
-
-**Core Concepts**
-- Machine Learning  
-- Deep Learning  
-- Natural Language Processing (NLP)  
-- Predictive Analytics  
-- Data Analysis  
-- AI Agents  
-- Automation  
-- API Integration  
-- Model Deployment  
-
-**Cloud & Platforms**
-- Microsoft Azure  
+| Category | Skills |
+|--------|--------|
+| **Programming & Databases** | Python<br>SQL<br>MySQL<br>MongoDB |
+| **Data & Analytics Tools** | Tableau<br>Power BI<br>Hadoop |
+| **Libraries & Frameworks** | Pandas<br>NumPy<br>Scikit-learn<br>TensorFlow<br>PyTorch |
+| **Core Concepts** | Machine Learning<br>Deep Learning<br>NLP<br>Predictive Analytics<br>Data Analysis<br>AI Agents<br>Automation<br>API Integration<br>Model Deployment |
+| **Cloud & Platforms** | Microsoft Azure |
 
 ---
 
