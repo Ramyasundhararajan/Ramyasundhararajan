@@ -129,12 +129,10 @@
 
 ## 🎓 Education
 
-**M.Sc. Data Science**  
-Bishop Heber College, Trichy  
+**M.Sc. Data Science**  - Bishop Heber College, Trichy  
 CGPA: 85%
 
-**B.Sc. Mathematics**  
-Bharathiyar Arts & Science College, Deviyakurichi  
+**B.Sc. Mathematics**  - Bharathiyar Arts & Science College, Deviyakurichi  
 CGPA: 86%
 
 ---
@@ -156,7 +154,7 @@ CGPA: 86%
 - 30 Days Masterclass in AI – NoviTech R&D  
 
 ---
-###📫 Connect With Me
+### 📫 Connect With Me
 📧 Email: ramyamano2003@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/ramya-s12r/
 💻 GitHub: https://github.com/Ramyasundhararajan
