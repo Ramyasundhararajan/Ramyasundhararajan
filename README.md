@@ -19,18 +19,39 @@
 **🧠 Strong foundation in Statistics, Machine Learning algorithms, Data Analysis, and Predictive Modeling**
 
 ---
+## 🧠 Technical Skills
 
-## 🛠️ Technical Skills
+**Programming & Databases**
+- Python  
+- SQL  
+- MySQL  
+- MongoDB  
 
-**Programming & Databases** : Python, SQL, MySQL, MongoDB  
+**Data & Analytics Tools**
+- Tableau  
+- Power BI  
+- Hadoop  
 
-**Data & Analytics Tools** : Tableau, Power BI, Hadoop  
+**Libraries & Frameworks**
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- TensorFlow  
+- PyTorch  
 
-**Libraries & Frameworks** : Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
+**Core Concepts**
+- Machine Learning  
+- Deep Learning  
+- Natural Language Processing (NLP)  
+- Predictive Analytics  
+- Data Analysis  
+- AI Agents  
+- Automation  
+- API Integration  
+- Model Deployment  
 
-**Core Concepts** : Machine Learning, Deep Learning, NLP, Predictive Analytics, Data Analysis, AI Agents, Automation, API Integration, Model Deployment  
-
-**Cloud & Platforms** : Microsoft Azure  
+**Cloud & Platforms**
+- Microsoft Azure  
 
 ---
 
