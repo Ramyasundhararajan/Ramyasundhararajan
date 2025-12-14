@@ -6,12 +6,12 @@
 
 ## 💡 About Me
 
-🎓 M.Sc. Data Science @ Bishop Heber College (CGPA: 8.5+)
-💻 Hands-on experience in Machine Learning, Deep Learning, NLP, and real-time analytics projects
-🤖 Built multiple AI agents and automation systems including chatbots, CRM automation, recommendation engines, and workflow bots
-📊 Developed and deployed end-to-end ML solutions for anomaly detection, sentiment analysis, trend prediction, and customer analytics
-🌐 Experienced in building ML-powered web applications using Flask with interactive data visualizations
-🧠 Strong foundation in Statistics, Machine Learning algorithms, Data Analysis, and Predictive Modeling
+**🎓 M.Sc. Data Science @ Bishop Heber College (CGPA: 8.5+)**
+**💻 Hands-on experience in Machine Learning, Deep Learning, NLP, and real-time analytics projects**
+**🤖 Built multiple AI agents and automation systems including chatbots, CRM automation, recommendation engines, and workflow bots**
+**📊 Developed and deployed end-to-end ML solutions for anomaly detection, sentiment analysis, trend prediction, and customer analytics**
+**🌐 Experienced in building ML-powered web applications using Flask with interactive data visualizations**
+**🧠 Strong foundation in Statistics, Machine Learning algorithms, Data Analysis, and Predictive Modeling**
 
 ---
 
