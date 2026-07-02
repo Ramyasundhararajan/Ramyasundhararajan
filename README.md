@@ -37,6 +37,13 @@
 
 ## 💼 Experience
 
+### Founder & AI Automation Consultant 
+**Evoltract**
+- Founded Evoltract, delivering AI automation and CRM solutions for businesses.
+- Developed chatbots, workflow automation, and lead management systems.
+- Implemented solutions for real estate, banking, and enterprise clients.
+- Managed project delivery, client consulting, and technology integrations.
+
 ### IT & Data Management Specialist  
 **Dharani Real Estate LLC**  
 - Managed and optimized CRM systems, APIs, and automation workflows to improve operational efficiency  
